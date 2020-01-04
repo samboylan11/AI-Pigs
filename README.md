@@ -6,10 +6,6 @@ Using ML-Agents 0.11.0 and Unity 2019
 By: Samuel Boylan-Sajous
 learned code from immersivelimit.com course 
 
-What the pigs looked like at first:
-
-![]()
-
 What the pigs looked like after 2,900,000 time steps:
 
-![]()
+![](PigSeekingTrufflesGIF.gif)
