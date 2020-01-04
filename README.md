@@ -12,4 +12,5 @@ What the pigs looked like after 2,900,000 time steps:
 ![](2PigsAgainstEachotherGIF.gif)
 
 By: Samuel Boylan-Sajous
+
 learned code from immersivelimit.com course 
