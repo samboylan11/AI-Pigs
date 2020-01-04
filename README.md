@@ -10,6 +10,6 @@ What the pigs looked like at first:
 
 ![]()
 
-What the pigs looked like after 29,000,00 time steps:
+What the pigs looked like after 2,900,000 time steps:
 
 ![]()
