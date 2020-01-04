@@ -9,3 +9,7 @@ learned code from immersivelimit.com course
 What the pigs looked like after 2,900,000 time steps:
 
 ![](PigSeekingTrufflesGIF.gif)
+
+2 Pigs Against each other:
+
+![](2PigsAgainstEachotherGIF.gif)
