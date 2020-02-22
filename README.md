@@ -17,4 +17,3 @@ What the pigs looked like after 2,900,000 time steps:
 
 By: Samuel Boylan-Sajous
 
-learned code from immersivelimit.com course 
